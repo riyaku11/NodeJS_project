@@ -1,0 +1,44 @@
+.component{
+    margin-left: 300px;
+    margin-top: 59px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  th,
+  td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #00bcd4;
+    color: white;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tr:hover {
+    background-color: #ddd;
+  }
+  
+
+  .intro{
+    color: #04292e;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    margin-right: 150px;
+  }
+  .intro p{
+    color: black;
+    font-size:25px;
+    
+  }
